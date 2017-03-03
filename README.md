@@ -1,7 +1,7 @@
 # PGCC 
 (Parsing-Grouping-Cleaning-Clustering) 
 
-A Python (v3) script to Parse, Group, Clean and Cluster user queries from digital catalogs, using Piwil raw data**.
+A Python (v3) script to Parse, Group, Clean and Cluster user queries from digital catalogues, using Piwil raw data**.
 
 The code source, reusable, presents a concrete example based on the State Archives of Belgium. This case study will be presented in the context of the 15th International Symposium of Information Science (ISI 2017 : http://isi2017.ib.hu-berlin.de/), Humboldt-Universität zu Berlin.
 
